@@ -11,3 +11,6 @@ It contains 3 file and one program file which compute the winner of the election
 For **linux** I am using strcmp function for comparing the string in order to find out whether the user iis voting for 1st time or 2nd time if the user is voting 2nd time then he/she will not be allowed.
 
 For **windows** I am using stricmp function in place of strcmp function for string comparing...
+
+##**BASIC OF FILE HANDLING IN C**
+refer to this link : https://www.geeksforgeeks.org/basics-file-handling-c/ which explain very clearly of all the file modes in C language.
