@@ -13,4 +13,5 @@ For **linux** I am using strcmp function for comparing the string in order to fi
 For **windows** I am using stricmp function in place of strcmp function for string comparing...
 
 ##**BASIC OF FILE HANDLING IN C**
-refer to this link : https://www.geeksforgeeks.org/basics-file-handling-c/ which explain very clearly of all the file modes in C language.
+refer to this link : [FILE_HANDLING](https://www.geeksforgeeks.org/basics-file-handling-c/)
+which explain very clearly of all the file modes in C language.
